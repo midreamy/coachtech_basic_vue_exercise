@@ -1,0 +1,15 @@
+.tabMenu {
+  display: flex;
+}
+
+li {
+  border:1px solid gray;
+  padding: 5px 20px;
+  list-style:none;
+}
+
+li:hover {
+  color:white;
+  background-color:black;
+}
+
